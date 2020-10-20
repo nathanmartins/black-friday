@@ -1,0 +1,1 @@
+{"parameters": {"test_size": 0.15, "random_state": 0, "n_estimators": 1000, "verbose": false, "no_tracking": false}, "parent_hash": null, "file_hash": "29e1927b7c8d171e2333f2c6492b96f885357f23", "cwd": "/home/nsm/Code/xnv/black", "file_name": "", "timestamp": 1603224398.241905, "experiment_id": "85ee63d4-89d5-4e6b-a91a-00b82d029574"}
